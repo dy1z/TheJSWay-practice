@@ -5,4 +5,4 @@ function sayHello(firstName,lastName) {
     return message;
     
 }
-sayHello();
+alert (sayHello(fName,lName));
